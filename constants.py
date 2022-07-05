@@ -1,0 +1,1 @@
+WINDOW_CLOSE_KEY = ord('q')
